@@ -1,0 +1,104 @@
+{
+    "root": {
+        "data": {
+            "id": "d28858sey8o0",
+            "created": 1719229926315,
+            "text": "MainTopic"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d2885anptyo0",
+                    "created": 1719229930384,
+                    "text": "コード"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2888b7jz940",
+                            "created": 1719230166676,
+                            "text": "前提：オブジェクト指向"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2888oksfl40",
+                            "created": 1719230195775,
+                            "text": "クラスの書き方"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d28891wfg000",
+                            "created": 1719230224777,
+                            "text": "デザインパターン"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d28bbgois3s0",
+                            "created": 1719238877008,
+                            "text": "基礎"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d28bbiv3y0o0",
+                                    "created": 1719238881760,
+                                    "text": "早期リターン"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d28bbo2gx8g0",
+                                    "created": 1719238893089,
+                                    "text": "topic"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d2885cnaiag0",
+                    "created": 1719229934712,
+                    "text": "DB"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d2885ee9tso0",
+                    "created": 1719229938521,
+                    "text": "ネットワーク",
+                    "layout_mind_offset": {
+                        "x": 489,
+                        "y": -63
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d2885o2jq740",
+                    "created": 1719229959579,
+                    "text": "ソフトウェアアーキテクチャ",
+                    "layout_mind_offset": {
+                        "x": 594,
+                        "y": 79
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
