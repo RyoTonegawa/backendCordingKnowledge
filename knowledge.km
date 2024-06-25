@@ -101,7 +101,7 @@
                 "data": {
                     "id": "d28bbgois3s0",
                     "created": 1719238877008,
-                    "text": "基礎",
+                    "text": "コーディング",
                     "expandState": "collapse"
                 },
                 "children": [
@@ -305,14 +305,15 @@
                     "id": "d28pwuqeg4g0",
                     "created": 1719280048783,
                     "text": "フレームワーク",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
                         "data": {
                             "id": "d28pwwe20v40",
                             "created": 1719280052390,
-                            "text": "Spring"
+                            "text": "Spring",
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -342,14 +343,6 @@
                         "children": []
                     }
                 ]
-            },
-            {
-                "data": {
-                    "id": "d28pxc7ug2g0",
-                    "created": 1719280086843,
-                    "text": "DI"
-                },
-                "children": []
             },
             {
                 "data": {
@@ -668,7 +661,7 @@
                     "id": "d28qgbu0xnc0",
                     "created": 1719281574927,
                     "text": "API",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
