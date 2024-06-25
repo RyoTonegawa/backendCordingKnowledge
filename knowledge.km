@@ -597,7 +597,8 @@
                 "data": {
                     "id": "d28qdxqkde80",
                     "created": 1719281387514,
-                    "text": "DB"
+                    "text": "DB",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -666,7 +667,8 @@
                 "data": {
                     "id": "d28qgbu0xnc0",
                     "created": 1719281574927,
-                    "text": "API"
+                    "text": "API",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -680,7 +682,8 @@
                                 "data": {
                                     "id": "d28qgiz9n1k0",
                                     "created": 1719281590481,
-                                    "text": "REST"
+                                    "text": "REST",
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -718,6 +721,14 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "d28r7e9wdaw0",
+                            "created": 1719283696073,
+                            "text": "APIをなぜ使うのか"
+                        },
+                        "children": []
                     }
                 ]
             }
